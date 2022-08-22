@@ -1,6 +1,6 @@
 # CIFAR 10
 
-The first deep learning project that i started on, did a high number of epochs training & data augmentation. Managed to achieve high accuracy results & secured an A for my graded project.
+The first deep learning project that i started working on, did a high number of epochs training & data augmentation. Managed to achieve high accuracy results & secured an A for my graded project.
 
 ![image](https://user-images.githubusercontent.com/109099956/185918888-f3ca2f6b-089b-4ccb-bf3f-ff1d3daeb9b5.png)
 
